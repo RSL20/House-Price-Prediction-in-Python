@@ -1,4 +1,4 @@
-# House-Price-Prediction-in-Python
+# House Price Prediction in Python
   Imarticus Institute Pune | Post Graduation Diploma in Big Data Analytics (PG-DBDA) | house_price_prediction.ipynb
   
   Predicting-Housing-Prices-using-Advanced-Regression
